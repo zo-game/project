@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 846, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
-  controlID: 53
+  controlID: 107
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -253,7 +253,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 54
+  controlID: 108
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -279,7 +279,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 55
+  controlID: 109
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -335,7 +335,7 @@ MonoBehaviour:
     m_CachedPref: -50
     m_ControlHash: 1964396721
     m_PrefName: Preview_TilemapBrushInspector
-  m_Palette: {fileID: 1666889969396551753, guid: 6c3d155c06d16d94188b3df6f446bc9e, type: 3}
+  m_Palette: {fileID: 6309900399904450884, guid: 354a53f3fa982e940a60330e305fa56c, type: 3}
   m_DrawGizmos: 0
 --- !u!114 &14
 MonoBehaviour:
@@ -375,22 +375,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Sprites
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Sprites
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\79024\Desktop\project\project\project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d6520000
-    m_LastClickedID: 21206
-    m_ExpandedIDs: 000000002444000000ca9a3b
+    m_SelectedIDs: 16490000
+    m_LastClickedID: 18710
+    m_ExpandedIDs: 000000000e4900001649000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -418,7 +418,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000024440000
+    m_ExpandedIDs: 000000000e490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -446,7 +446,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300001a510000
+    m_ExpandedInstanceIDs: c62300001a5100001a530000244b00001a490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -470,7 +470,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 963.5}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -539,23 +539,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 40fbffff
+      m_SelectedIDs: 669dffff
+      m_LastClickedID: -25242
+      m_ExpandedIDs: 669dffff20a7ffff08c9fffffad2ffffb8dcffff76e6ffff2ef0ffff40fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Main Camera
-        m_OriginalName: Main Camera
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 16340
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -601,9 +601,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.4647713, y: -19.679197, z: -61.366287}
+    m_Target: {x: 68.51982, y: 106.724396, z: -6.5734434}
     speed: 2
-    m_Value: {x: 3.4647713, y: -19.679197, z: -61.366287}
+    m_Value: {x: 68.51982, y: 106.724396, z: -6.5734434}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -654,9 +654,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 33.09859
+    m_Target: 7.556054
     speed: 2
-    m_Value: 33.513317
+    m_Value: 7.9120984
   m_Ortho:
     m_Target: 1
     speed: 2
